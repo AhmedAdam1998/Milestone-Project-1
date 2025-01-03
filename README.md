@@ -35,4 +35,4 @@ This portfolio website serves as a professional showcase of work and skills. Use
 - Professional portfolio structure
 
 ## Deployment
-Deployed on GitHub pages
+Deployed on GitHub pages at url: https://ahmedadam1998.github.io/Milestone-Project-1/ 
