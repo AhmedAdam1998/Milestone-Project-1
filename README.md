@@ -63,6 +63,15 @@ This site offers a comprehensive set of features to cater to the needs of potent
 
     ![footer](https://ahmedadam1998.github.io/Milestone-Project-1/img/footer-img.png)
 
+- **About**
+    - Describe myself to the user.
+    ![Description](https://ahmedadam1998.github.io/Milestone-Project-1/img/)
+    - Present technical skills.
+    ![Technical skills](https://ahmedadam1998.github.io/Milestone-Project-1/img/)
+    - Experience section showcasing accomplishments
+    ![Experience](https://ahmedadam1998.github.io/Milestone-Project-1/img/)
+    
+
 ### Possible Future Features
 - **Portfolio Section**
     - Showcase completed projects to highlight expertise.
