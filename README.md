@@ -119,7 +119,7 @@ The site aims to:
 | Safari      | ✔           | ✔             |
 
 ### Lighthouse Testing
-![Link to Lighthouse Testing](https://pagespeed.web.dev/analysis/https-ahmedadam1998-github-io-Milestone-Project-1/npb003896o?hl=en-GB&form_factor=desktop)
+[Link to Lighthouse Testing](https://pagespeed.web.dev/analysis/https-ahmedadam1998-github-io-Milestone-Project-1/npb003896o?hl=en-GB&form_factor=desktop)
 ![Lighthouse image](https://ahmedadam1998.github.io/Milestone-Project-1/img/lighthouse-img.png)
 
 ### Manual Testing
