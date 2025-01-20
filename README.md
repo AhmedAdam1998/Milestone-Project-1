@@ -65,11 +65,11 @@ This site offers a comprehensive set of features to cater to the needs of potent
 
 - **About**
     - Describe myself to the user.
-    ![Description](https://ahmedadam1998.github.io/Milestone-Project-1/img/)
+    ![Description](https://ahmedadam1998.github.io/Milestone-Project-1/img/description-img.png)
     - Present technical skills.
-    ![Technical skills](https://ahmedadam1998.github.io/Milestone-Project-1/img/)
+    ![Technical skills](https://ahmedadam1998.github.io/Milestone-Project-1/img/technical-img.png)
     - Experience section showcasing accomplishments
-    ![Experience](https://ahmedadam1998.github.io/Milestone-Project-1/img/)
+    ![Experience](https://ahmedadam1998.github.io/Milestone-Project-1/img/experience-img.png)
     
 
 ### Possible Future Features
