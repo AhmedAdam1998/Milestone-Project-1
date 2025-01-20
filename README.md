@@ -42,7 +42,7 @@ This site offers a comprehensive set of features to cater to the needs of potent
     - Engaging tagline and call-to-action prominently displayed.
     - Background image optimized for accessibility and impact.
 
-    ![hero section](https://example.com/hero-section-image.png)
+    ![hero section](https://ahmedadam1998.github.io/Milestone-Project-1/img/hero-banner-img.png)
 
 - **Service Highlights**
     - Details on Web Development, Mobile Apps, and API solutions.
