@@ -35,7 +35,7 @@ This site offers a comprehensive set of features to cater to the needs of potent
     - Includes links to Home, About, Services, and Contact pages for easy navigation.
     - Responsive design adapts to different screen sizes.
 
-    ![navbar](https://example.com/navbar-image.png)
+    ![navbar](https://ahmedadam1998.github.io/Milestone-Project-1/img/navbar-img.png)
 
 - **Hero Section**
     - Engaging tagline and call-to-action prominently displayed.
