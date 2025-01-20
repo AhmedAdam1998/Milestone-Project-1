@@ -61,7 +61,7 @@ This site offers a comprehensive set of features to cater to the needs of potent
 - **Footer**
     - Social media icons and quick links for improved accessibility.
 
-    ![footer](https://example.com/footer-image.png)
+    ![footer](https://ahmedadam1998.github.io/Milestone-Project-1/img/footer-img.png)
 
 ### Possible Future Features
 - **Portfolio Section**
