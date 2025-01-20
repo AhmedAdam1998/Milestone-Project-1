@@ -43,13 +43,14 @@ This site offers a comprehensive set of features to cater to the needs of potent
     - Background image optimized for accessibility and impact.
 
     ![hero section](https://ahmedadam1998.github.io/Milestone-Project-1/img/hero-banner-img.png)
-    
+
 
 - **Service Highlights**
     - Details on Web Development, Mobile Apps, and API solutions.
     - Icons and short descriptions for quick comprehension.
 
-    ![services](https://example.com/services-image.png)
+    ![services](https://ahmedadam1998.github.io/Milestone-Project-1/img/services-image.png)
+    
 
 - **Contact Form**
     - Allows users to send inquiries by filling out name, email, project type, and details.
