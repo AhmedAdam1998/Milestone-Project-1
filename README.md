@@ -56,7 +56,7 @@ This site offers a comprehensive set of features to cater to the needs of potent
     - Allows users to send inquiries by filling out name, email, project type, and details.
     - Essential for client engagement.
 
-    ![contact form](https://example.com/contact-form-image.png)
+    ![contact form](https://ahmedadam1998.github.io/Milestone-Project-1/img/contact-img.png)
 
 - **Footer**
     - Social media icons and quick links for improved accessibility.
