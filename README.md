@@ -15,9 +15,9 @@ CodeCraft Solutions is built with a focus on clarity, usability, and a professio
 
 ### Wireframes
 - Initial wireframes were conceptualized using tools like Exaclidraw, ensuring a user-centric layout adaptable to both mobile and desktop environments.
-![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/logo-img.png)
-![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/logo-img.png)
-![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/logo-img.png)
+![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/wireframe-about.png)
+![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/wireframe-contact.png)
+![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/wireframe-landing.png)
 
 ### Font and Color Choices
 **Fonts:**
