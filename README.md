@@ -14,7 +14,10 @@ Welcome to CodeCraft Solutions! We are a professional web development agency tur
 CodeCraft Solutions is built with a focus on clarity, usability, and a professional aesthetic. The site follows a mobile-first approach to ensure seamless navigation across devices. The design emphasizes modernity and technical sophistication.
 
 ### Wireframes
-- Initial wireframes were conceptualized using tools like Figma, ensuring a user-centric layout adaptable to both mobile and desktop environments.
+- Initial wireframes were conceptualized using tools like Exaclidraw, ensuring a user-centric layout adaptable to both mobile and desktop environments.
+![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/logo-img.png)
+![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/logo-img.png)
+![Wireframe mock-up](https://ahmedadam1998.github.io/Milestone-Project-1/img/logo-img.png)
 
 ### Font and Color Choices
 **Fonts:**
