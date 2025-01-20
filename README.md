@@ -132,14 +132,20 @@ The site aims to:
 
 ## Deployment
 
-This site was deployed via GitHub Pages. Follow these steps for deployment:
-1. Navigate to **Settings** in the repository.
-2. Under **Pages**, select the branch to deploy.
-3. Save the settings and access the live link.
+This site was deployed via GitHub pages using the following steps:
+From the GitHub repository, navigate to Settings
+In the left-hand navigation section select Pages
+From the source section drop-down menu change Branch from none to main and click the Save
+After several minutes the website is live and will be automatically refreshed with each Git push command.
+The link to the live site is: https://5500-ahmedadam19-milestonepr-ffe4nx9zv7r.ws-eu117.gitpod.io/index.html
 
 To run locally:
-- Clone the repository using `git clone`.
-- Open the index file in a web browser.
+Log into GitHub and click on repository to download (https://github.com/AhmedAdam1998/Milestone-Project-1)
+Select Code and click "Download the Zip file.
+Once download is completed, extract ZIP file and use in your local environment.
+Alternatively you can Clone or Fork this repository into your GitHub account.
+
+
 
 ---
 
